@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DiceRoller</string>
+    <string name="title_dice_roller">DICE ROLLER</string>
+    <string name="subtitle_dice_roller">Unit 2 – Add a button to an app</string>
+    <string name="roll_dice">ROLL DICE</string>
+    <string name="rolling">ROLLING...</string>
+    <string name="result_label">RESULT: %1$d</string>
+    <string name="dice_content_description">Dice face %1$d</string>
+</resources>

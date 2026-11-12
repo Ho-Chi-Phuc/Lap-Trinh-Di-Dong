@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tip Time</string>
+    <string name="bill_amount_label">Số tiền hóa đơn</string>
+    <string name="bill_amount_placeholder">Nhập số tiền...</string>
+    <string name="bill_amount_helper">Nhập tổng số tiền trên hóa đơn</string>
+    <string name="bill_info_title">Thông tin hóa đơn</string>
+    <string name="tip_amount_badge">TIP AMOUNT</string>
+    <string name="tip_amount_title">Số tiền boa</string>
+    <string name="tip_rate_info">Tỷ lệ tiền boa: 15%</string>
+    <string name="tip_auto_calc_note">Tiền boa được tính tự động theo hóa đơn của bạn.</string>
+    <string name="header_title">TIP TIME</string>
+    <string name="header_subtitle">Tính tiền boa nhanh chóng và dễ dàng</string>
+    <string name="formula_title">CÁCH TÍNH</string>
+    <string name="formula_desc">Hóa đơn × 15% = Tiền boa</string>
+    <string name="currency_symbol">₫</string>
+</resources>

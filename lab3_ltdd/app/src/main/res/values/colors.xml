@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_blue">#2563EB</color>
+    <color name="primary_blue_dark">#1D4ED8</color>
+    <color name="bg_gradient_start">#EFF6FF</color>
+    <color name="bg_gradient_end">#DBEAFE</color>
+    <color name="dice_shadow">#33000000</color>
+</resources>
